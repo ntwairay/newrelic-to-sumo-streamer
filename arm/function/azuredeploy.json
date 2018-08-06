@@ -169,7 +169,7 @@
               "[resourceId('Microsoft.Web/sites/', parameters('appName'))]"
             ],
            "properties": {
-             "RepoUrl": "https://github.com/vibrato/newrelic-to-sumo-streamer.git",
+             "RepoUrl": "https://f915d9e32ab4c37c5b74e6d51b26616765666420@github.com/vibrato/newrelic-to-sumo-streamer.git",
              "branch": "master",
              "isManualIntegration": true
            }
